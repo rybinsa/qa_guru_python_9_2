@@ -1,6 +1,6 @@
 def say(word):
-    print(word)
+    print(f'Hi,{word}')
 
-first_word = input()
+name = input()
 
-say(first_word)
+say(name)
