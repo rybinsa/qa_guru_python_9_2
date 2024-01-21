@@ -1,5 +1,5 @@
 def say(word):
-    print(f'Hi,{word}')
+    print(f'Hello,{word}')
 
 name = input()
 
